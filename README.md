@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋 , I'm Sofie!
-Currently working as Junior QA Engineer, Having knowledge to create web automation using Cucumber Selenium Java. API Testing using Postman and Cucumber Serenity BDD with Rest Assured. And having knowledge about Project Management Tools such a Trello and Test Case Management using TestRail.
+As a Junior QA Engineer, I have knowledge to create web automation using Cucumber Selenium Java. API Testing using Postman and Cucumber Serenity BDD with Rest Assured. And having knowledge about Project Management Tools such a Trello and Test Case Management using TestRail.
 
 # Table of contents
 <!--ts-->
