@@ -17,32 +17,25 @@ As a Junior QA Engineer, I have knowledge to create web automation using Cucumbe
 
 # Table of contents
 <!--ts-->
-   * [Stats](#stats)
    * [Tools](#tools)
    * [Connect](#connect)
    * [Contact me](#contact-me)
 <!--te-->
+
  
-
-## 📈Stats
-<p align="left">
-<a href="https://github.com/sofiemiranti">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sofiemiranti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sofiemiranti&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 ## 🔨Tools
 ![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)
 ![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
 ![Cucumber](https://img.shields.io/badge/-cucumber-181717?style=for-the-badge&logo=cucumber)
 ![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
+![Katalon](https://img.shields.io/badge/-Katalon-181717?style=for-the-badge&logo=katalon)
 ![Serenity BDD](https://img.shields.io/badge/-serenitybdd-181717?style=for-the-badge&logo=serenitybdd)
 ![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
 ![Trello](https://img.shields.io/badge/-trello-181717?style=for-the-badge&logo=trello)
 ![TestRail](https://img.shields.io/badge/-testrail-181717?style=for-the-badge&logo=testrail)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 
 ## 🔗Connect
 <p>
