@@ -32,7 +32,9 @@ As a Junior QA Engineer, I have knowledge to create web automation using Cucumbe
 ![Serenity BDD](https://img.shields.io/badge/-serenitybdd-181717?style=for-the-badge&logo=serenitybdd)
 ![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
 ![Trello](https://img.shields.io/badge/-trello-181717?style=for-the-badge&logo=trello)
+![Open Project](https://img.shields.io/badge/-Open%20Project-181717?style=for-the-badge&logo=openproject)
 ![TestRail](https://img.shields.io/badge/-testrail-181717?style=for-the-badge&logo=testrail)
+![TestLink](https://img.shields.io/badge/-TestLink-181717?style=for-the-badge&logo=testlink)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
